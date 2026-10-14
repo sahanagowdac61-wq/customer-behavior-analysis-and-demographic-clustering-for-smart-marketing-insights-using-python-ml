@@ -1,0 +1,2 @@
+# customer-behavior-analysis-and-demographic-clustering-for-smart-marketing-insights-using-python-ml
+This project uses Python and machine learning to group customers by demographics, buying behavior, and preferences. Clustering and visualizations reveal customer segments, patterns, and trends. These insights help businesses understand audience, personalize marketing campaigns, improve engagement, and make data-driven decisions for growth each day.
